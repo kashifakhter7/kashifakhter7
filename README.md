@@ -75,7 +75,7 @@ I enjoy working with data to discover insights, build visualizations, solve prob
 
 I'm always open to networking, collaboration, mentorship, and career opportunities.
 
-📧 **Email:** mailto:kashifakhter777@gmail.com
+📧 **Email:** kashifakhter777@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/kashif-akhter/
 
