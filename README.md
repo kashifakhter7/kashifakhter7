@@ -92,6 +92,12 @@ Here are some of my featured Machine Learning, Data Science, and NLP projects:
 * **Tech Stack:** `Python` `NLP` `NLTK` `Scikit-Learn` `Streamlit`
 * **Link:** [View Repository](https://github.com/kashifakhter7/Spam-Prediction)
 
+### 📩 [ShopNest-Store-Power-BI-Capstone](https://github.com/kashifakhter7/ShopNest-Store-Power-BI-Capstone)
+* **Description:** An end-to-end Power BI business intelligence solution that turns 9 relational e-commerce datasets into an executive-grade dashboard, tracking revenue, delivery performance, customer satisfaction, and seasonal trends for ShopNest Portugal’s marketplace.
+* **Key Highlights:** Built a star-schema data model with Power Query ETL (data cleansing, datetime normalization, delivery SLA flags, category localization) and a dedicated DAX calendar table. Created 10+ DAX measures (Total Revenue, On-Time Delivery %, Delay Rate %, Avg Delivery Days, YoY Revenue Growth %) powering 8 analytical views: top categories by sales, delayed orders by category, monthly delayed vs. on-time trends with drillthrough to order level, payment method mix, top/bottom-rated products, state-wise sales map, quarterly seasonality, and yearly revenue growth.
+* **Tech Stack:** `Power BI` `DAX Power Query` `Data Modeling (Star Schema)` `ETL Data Visualization`
+* **Link:** [View Repository](https://github.com/kashifakhter7/ShopNest-Store-Power-BI-Capstone)
+
 > 📌 **Explore More:** Check out all my public projects and repositories on my [GitHub Repositories](https://github.com/kashifakhter7?tab=repositories) page.
 
 ---
